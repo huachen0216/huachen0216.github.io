@@ -60,4 +60,4 @@
 组件被移除之前被调用，可以用于做一些清理工作，在componentDidMount方法中添加的所有任务都需要在该方法中撤销，比如
 创建的定时器或添加的事件监听器。
 
-![](/images/react_flow.png)
+![](http://huachen0216.github.io/images/react_flow.png)
